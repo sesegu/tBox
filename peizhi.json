@@ -72,20 +72,6 @@
             "keepPlayFileKeywords": ""
         },
         {
-            "key": "xiaomaomi",
-            "name": "小猫咪资源",
-            "type": 1,
-            "searchable": 1,
-            "filterClass": "短剧,其他,成人,小破站,资讯,影视资讯,明星资讯,演员,内地明星,港台明星,欧美明星,日韩明星,QQ群9342027",
-            "firstClass": "",
-            "filterPlay": "",
-            "firstPlay": "",
-            "ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-            "flagable": 1,
-            "filterPlayFileKeywords": "",
-            "keepPlayFileKeywords": ""
-        },
-        {
             "key": "1080zyku",
             "name": "1080资源",
             "type": 1,
@@ -249,20 +235,6 @@
             "filterPlay": "",
             "firstPlay": "",
             "ext": "https://raw.githubusercontent.com/tBox2010/tBox/refs/heads/main/js/yunpan.js",
-            "flagable": 0,
-            "filterPlayFileKeywords": "",
-            "keepPlayFileKeywords": ""
-        },
-        {
-            "key": "wogg",
-            "name": "玩偶哥哥(未设置cookie)",
-            "type": 5,
-            "searchable": 1,
-            "filterClass": "",
-            "firstClass": "",
-            "filterPlay": "",
-            "firstPlay": "夸克网盘,夸克网盘2",
-            "ext": "https://raw.githubusercontent.com/tBox2010/tBox/refs/heads/main/js/wogg.js",
             "flagable": 0,
             "filterPlayFileKeywords": "",
             "keepPlayFileKeywords": ""
