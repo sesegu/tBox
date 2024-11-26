@@ -29,7 +29,7 @@
 	},{
 		"key": "abcd",
 		"name": "测试资源",
-		"type": 3,
+		"type": 2,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
