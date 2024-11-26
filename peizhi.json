@@ -3,7 +3,7 @@
 	"sites": [{
 		"key": "sbzy",
 		"name": "速博资源",
-		"type": 3,
+		"type": 1,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
