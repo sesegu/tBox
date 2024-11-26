@@ -224,20 +224,6 @@
             "flagable": 0,
             "filterPlayFileKeywords": "",
             "keepPlayFileKeywords": ""
-        },
-        {
-            "key": "yunpan",
-            "name": "云盘资源(仅搜索 未设置cookie)",
-            "type": 5,
-            "searchable": 1,
-            "filterClass": "",
-            "firstClass": "",
-            "filterPlay": "",
-            "firstPlay": "",
-            "ext": "https://raw.githubusercontent.com/tBox2010/tBox/refs/heads/main/js/yunpan.js",
-            "flagable": 0,
-            "filterPlayFileKeywords": "",
-            "keepPlayFileKeywords": ""
         }
     ],
     "parses": [
