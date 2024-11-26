@@ -26,15 +26,15 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "damifan",
-		"name": "大米星球",
+		"key": "ali",
+		"name": "阿里影视",
 		"type": 6,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "https://raw.githubusercontent.com/tBox2010/tBox/refs/heads/main/soup/dami_soup.json",
+		"ext": "http://aliys.cn:90/api.php/provide/vod/at/xml",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
