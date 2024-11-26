@@ -16,13 +16,13 @@
 		{
 		"key": "plyy",
 		"name": "飘零影院",
-		"type": 0,
+		"type": 1,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "http://tv.02035.vip/tv/js/儿童拼音.json",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/aliluya1977/gaotianliuyun/refs/heads/master/json/moli.json",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
