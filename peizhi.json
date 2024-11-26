@@ -14,20 +14,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "sbzy",
-		"name": "速博资源",
+		"key": "wyzy",
+		"name": "外语资源",
 		"type": 1,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "https://subocaiji.com/api.php/provide/vod/",
+		"ext": "http://tv.02035.vip/tv/js/外语.json",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "sbzy",
+		"key": "abcd",
 		"name": "速博资源",
 		"type": 1,
 		"searchable": 1,
