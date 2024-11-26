@@ -3,7 +3,7 @@
 		"key": "sbzy",
 		"name": "速博资源",
 		"type": 1,
-		"searchable": 1,
+		"searchable": 2,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
@@ -15,7 +15,7 @@
 	},{
 		"key": "plyy",
 		"name": "飘零影院",
-		"type": 1,
+		"type": 2,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
