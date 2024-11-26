@@ -28,7 +28,7 @@
 	},{
 		"key": "ali",
 		"name": "阿里影视",
-		"type": 6,
+		"type": 1,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
