@@ -28,14 +28,14 @@
 		"keepPlayFileKeywords": ""
 	},{
 		"key": "abcd",
-		"name": "速博资源",
+		"name": "测试资源",
 		"type": 1,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "https://subocaiji.com/api.php/provide/vod/",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/baipiaoys.json",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
