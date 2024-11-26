@@ -16,13 +16,13 @@
 		{
 		"key": "plyy",
 		"name": "飘零影院",
-		"type": 1,
+		"type": 3,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "https://subocaiji.com/api.php/provide/vod/",
+		"ext": "http://tv.02035.vip/tv/js/儿童拼音.json",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
