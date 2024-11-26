@@ -2,7 +2,7 @@
 	"sites": [{
 		"key": "sbzy",
 		"name": "速博资源",
-		"type": 6,
+		"type": 0,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
@@ -15,7 +15,7 @@
 	},{
 		"key": "plyy",
 		"name": "飘零影院",
-		"type": 3,
+		"type": 0,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
