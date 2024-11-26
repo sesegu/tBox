@@ -35,6 +35,7 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "http://aliys.cn:90/api.php/provide/vod/at/xml",
+		"jar": "http://tv.02035.vip/tv/js/83.jar",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
