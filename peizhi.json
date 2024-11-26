@@ -29,13 +29,14 @@
 	},{
 		"key": "abcd",
 		"name": "测试资源",
-		"type": 2,
+		"type": 6,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/baipiaoys.json",
+		"jar": "http://tv.02035.vip/tv/js/83.jar",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
